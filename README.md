@@ -1,2 +1,2 @@
-# TechMeSkills
-new homework for teach me skills python
+**TechMeSkills**
+<br>Repository for the homework within teach me skills course<br>
