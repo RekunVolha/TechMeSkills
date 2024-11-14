@@ -39,7 +39,8 @@ def probely(stroka):
     else:
         return stroka
 
-print(probely(" some generated text "))
+#print(probely(" some generated text "))
+print(" some generated text ".strip())
 
 #6 создайте словарь связав с переменной school и наполните данными с количеством уч в 10 разн классах
 
