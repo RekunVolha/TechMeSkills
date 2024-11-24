@@ -9,7 +9,7 @@
 
 #print("www.my_site.com#about".replace("#", "/") )
 
-def replace (string):
+def replace(string):
     string = string.replace("#", "/")
     return string
 
@@ -19,8 +19,8 @@ print(replace("www.my_site.com#about"))
 
 #print("stroka"+"ing")
 
-def add_ing (string):
-    string = string+"ing"
+def add_ing(string):
+    string = string + "ing"
     return string
 
 print(add_ing("cry"))
